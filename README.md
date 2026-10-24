@@ -57,5 +57,3 @@ The dashboard includes the following visualizations:
 
 ## Project Outcome
 This project demonstrates practical Power BI skills in data preparation, data modeling, DAX calculations, and dashboard development for e-commerce sales analysis.
-
-was completed as part of a Power BI learning assignment.*
